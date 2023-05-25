@@ -1,0 +1,7 @@
+site_name: 'jaytest71 Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
